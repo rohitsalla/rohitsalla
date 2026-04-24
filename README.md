@@ -7,15 +7,6 @@ I work on **multimodal AI** and **reliable retrieval & reasoning**, with a focus
 - **Robotics perception (when it supports reliable decision-making)**
 
 
----
-
-## 🧪 What I'm Building Here
-On this GitHub you’ll find **reproducible experiments**, **clean ablations**, and **paper-aligned code**.
-- **paper repos**: code + configs + scripts to reproduce results  
-- **experiments**: ablations, sweeps, evaluation utilities  
-- **notes**: reading notes + mini writeups (ideas → experiments)
-
----
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rohitsalla&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
