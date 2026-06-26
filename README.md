@@ -1,10 +1,4 @@
 ## 🔬 Research Interests
-I work on **multimodal AI** and **reliable retrieval & reasoning**, with a focus on:
-- **VLM/MLLM reliability & diagnostics**
-- **Multi-query LLM reasoning (contradictions, consistency)**
-- **Retrieval systems under semantic drift (RAG, continual indexing)**
-- **Training dynamics & phase transitions (data mixture effects)**
-- **Robotics perception (when it supports reliable decision-making)**
 
 
 
