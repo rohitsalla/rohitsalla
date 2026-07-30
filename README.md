@@ -9,7 +9,7 @@
 M.S. in Computer Engineering at Virginia Tech, working at the intersection of machine learning, robotics, computer vision, and intelligent systems.
 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sallarohit1011@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Salla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-salla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Salla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rohit-salla-380174170)
 [![GitHub](https://img.shields.io/badge/GitHub-rohitsalla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitsalla)
 [![Followers](https://img.shields.io/github/followers/rohitsalla?style=for-the-badge&logo=github&label=Followers)](https://github.com/rohitsalla?tab=followers)
 
@@ -98,7 +98,7 @@ Self-evolving agents, skill memory, reasoning, tool use, multi-agent learning, a
 <div align="center">
 
 [![Email](https://img.shields.io/badge/sallarohit1011%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sallarohit1011@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--salla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-salla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--salla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rohit-salla-380174170)
 [![GitHub](https://img.shields.io/badge/GitHub-rohitsalla-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitsalla)
 
 <br />
