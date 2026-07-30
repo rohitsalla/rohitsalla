@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Embodied+AI+%26+Robot+Learning;3D%2F4D+Vision+%26+World+Models;Reinforcement+Learning+%26+Diffusion+Policies;Self-Improving+Agents+%26+ML+Systems)](https://git.io/typing-svg)
 
-M.S. in Computer Engineering at Virginia Tech, working at the intersection of machine learning, robotics, computer vision, and intelligent systems.
+M.S. in Computer Engineering at Virginia Tech
 
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sallarohit1011@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Salla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rohit-salla-380174170)
