@@ -30,20 +30,11 @@ M.S. in Computer Engineering at Virginia Tech, working at the intersection of ma
 ### 🤖 Embodied AI and Robot Learning
 Robot manipulation, bimanual coordination, long-horizon planning, adaptive control, and learning from interaction.
 
-### 🌐 3D/4D Vision and Spatial Intelligence
-Gaussian splatting, scene understanding, inverse graphics, spatial reasoning, and learned world models.
-
 ### 🎯 Reinforcement Learning and Generative Policies
 Diffusion policies, adaptive computation, dynamic halting, policy evaluation, and reliable decision-making.
 
 ### 🧬 Self-Improving and Agentic Systems
 Self-evolving agents, skill memory, reasoning, tool use, multi-agent learning, and continual adaptation.
-
-### 🔎 Retrieval and Reliable Reasoning
-Retrieval under distribution shift, long-context diagnostics, uncertainty estimation, and reasoning evaluation.
-
-### 🛡️ Trustworthy and Efficient Machine Learning
-Robustness, consistency, distributed training, efficient inference, and reproducible ML infrastructure.
 
 ## 🛠️ Research and Engineering Stack
 
@@ -106,7 +97,7 @@ Robustness, consistency, distributed training, efficient inference, and reproduc
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/sallarohit1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sallarohit1@gmail.com)
+[![Email](https://img.shields.io/badge/sallarohit1011%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sallarohit1011@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohit--salla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-salla)
 [![GitHub](https://img.shields.io/badge/GitHub-rohitsalla-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitsalla)
 
