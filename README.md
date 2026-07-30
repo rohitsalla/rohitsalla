@@ -2,7 +2,7 @@
 
 # Hi, I'm Rohit Kumar Salla 👋
 
-### Machine Learning · Robotics · Computer Vision · Intelligent Systems
+### Robotics · Computer Vision 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Embodied+AI+%26+Robot+Learning;3D%2F4D+Vision+%26+World+Models;Reinforcement+Learning+%26+Diffusion+Policies;Self-Improving+Agents+%26+ML+Systems)](https://git.io/typing-svg)
 
