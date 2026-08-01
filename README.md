@@ -17,14 +17,6 @@ M.S. in Computer Engineering at Virginia Tech
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Building robust and efficient machine-learning systems for research and real-world deployment
-- 🤖 Exploring agents that can perceive, reason, adapt, and improve over time
-- 🧠 Interested in embodied intelligence, reinforcement learning, multimodal reasoning, and world models
-- ⚙️ Working with distributed training, efficient inference, reproducible experimentation, and open-source engineering
-- 🤝 Open to research collaborations and technically ambitious open-source projects
-
 ## 🔬 Research Interests
 
 ### 🤖 Embodied AI and Robot Learning
