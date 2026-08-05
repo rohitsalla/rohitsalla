@@ -2,32 +2,6 @@
 
 # Hi, I'm Rohit Kumar Salla 👋
 
-### Robotics · Computer Vision 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Embodied+AI+%26+Robot+Learning;3D%2F4D+Vision+%26+World+Models;Reinforcement+Learning+%26+Diffusion+Policies;Self-Improving+Agents+%26+ML+Systems)](https://git.io/typing-svg)
-
-M.S. in Computer Engineering at Virginia Tech
-
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sallarohit1011@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit_Salla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rohit-salla-380174170)
-[![GitHub](https://img.shields.io/badge/GitHub-rohitsalla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitsalla)
-[![Followers](https://img.shields.io/github/followers/rohitsalla?style=for-the-badge&logo=github&label=Followers)](https://github.com/rohitsalla?tab=followers)
-
-</div>
-
----
-
-## 🔬 Research Interests
-
-### 🤖 Embodied AI and Robot Learning
-Robot manipulation, bimanual coordination, long-horizon planning, adaptive control, and learning from interaction.
-
-### 🎯 Reinforcement Learning and Generative Policies
-Diffusion policies, adaptive computation, dynamic halting, policy evaluation, and reliable decision-making.
-
-### 🧬 Self-Improving and Agentic Systems
-Self-evolving agents, skill memory, reasoning, tool use, multi-agent learning, and continual adaptation.
-
 ## 🛠️ Research and Engineering Stack
 
 <div align="center">
