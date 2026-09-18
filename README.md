@@ -1,1 +1,1 @@
-# Hi, I'm Rohit Kumar Salla 👋
+# Hi, I'm Rohit 👋
